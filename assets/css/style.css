@@ -76,14 +76,14 @@
 
   /*intro & about-me styles*/
   .intro {
-    padding: 350px;
+    padding-top: 100px;
   }
   .flex-row p {
     max-width: 1000px;
     display: flex;
     align-items: center;
-    margin-left: 420px;
     font-size: 30px;
+    margin: auto;
   }
   /*intro & about me style end*/
 
@@ -319,3 +319,4 @@
       flex: 0 100%;
     }
     /* end media query */
+  }
